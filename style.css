@@ -1,7 +1,8 @@
 .main {
   background-color: black;
+  foreground-color: white;
 }
 
-.fh {
-  color: white;
+.fhead {
+  color: pink;
 }
